@@ -1,0 +1,3 @@
+# RFM-Analysis-for-Customer-Segmentation-in-UK-Online-Retail
+Project Objective:
+The main objective of this project is to leverage the RFM (Recency, Frequency, Monetary) analysis method to perform customer segmentation. RFM analysis is a powerful technique widely employed by businesses to categorize customers based on their recent purchasing behavior, frequency of purchases, and monetary value. By segmenting customers into distinct groups, the business gains valuable insights that can inform targeted marketing strategies, enhance customer engagement, and contribute to effective customer retention efforts.
